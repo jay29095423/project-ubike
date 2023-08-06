@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/project-ubike/static/css/main.c39f2bac.css",
-    "main.js": "/project-ubike/static/js/main.c21e0067.js",
+    "main.css": "/project-ubike/static/css/main.c2e5e045.css",
+    "main.js": "/project-ubike/static/js/main.5b355023.js",
     "static/js/787.245728c0.chunk.js": "/project-ubike/static/js/787.245728c0.chunk.js",
     "static/media/image 11.jpg": "/project-ubike/static/media/image 11.5a66e06eb6c64f8d3c71.jpg",
     "index.html": "/project-ubike/index.html",
-    "main.c39f2bac.css.map": "/project-ubike/static/css/main.c39f2bac.css.map",
-    "main.c21e0067.js.map": "/project-ubike/static/js/main.c21e0067.js.map",
+    "main.c2e5e045.css.map": "/project-ubike/static/css/main.c2e5e045.css.map",
+    "main.5b355023.js.map": "/project-ubike/static/js/main.5b355023.js.map",
     "787.245728c0.chunk.js.map": "/project-ubike/static/js/787.245728c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c39f2bac.css",
-    "static/js/main.c21e0067.js"
+    "static/css/main.c2e5e045.css",
+    "static/js/main.5b355023.js"
   ]
 }
